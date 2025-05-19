@@ -1,0 +1,1 @@
+// automaticaaly on light and pumping machine 
